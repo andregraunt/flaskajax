@@ -1,9 +1,6 @@
 
 
-#jopa
-#jopa
-#jopa
-#jopa
+
 #jopa
 ## upk
 ##upl
@@ -28,9 +25,5 @@ eto `pip instal`
 <p style="text-align: center;">Этот текст будет по o центру ili net no mojet da</p>
 
 
-# jjrnfjnf
-# jjrnfjnf
-# jjrnfjnf
-# jjrnfjnf
 # jjrnfjnf
 # jjrnfjnf

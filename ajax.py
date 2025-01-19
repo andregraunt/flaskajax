@@ -38,4 +38,4 @@ def get_markdown_content():
     return markdown.markdown(content)
 
 if __name__ == '__main__':
-    app.run(debug=True, port=3000)
+    app.run(debug=True, port=7070)
